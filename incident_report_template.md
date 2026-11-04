@@ -1,6 +1,6 @@
-# Coporate Incident Report Template Report Template
+# Corporate Incident Report Template
 
-## 1. Administartive Details
+## 1. Administrative Details
 * **Incident References ID:** [e.g., INC-2026-001]
 * **Date/Time of Discovery: [YYY-MM-DD HH:MM UTC]
 * **Reported By :** [Name & Role]
